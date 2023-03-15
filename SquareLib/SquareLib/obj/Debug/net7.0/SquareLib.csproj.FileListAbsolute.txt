@@ -1,0 +1,12 @@
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\bin\Debug\net7.0\SquareLib.deps.json
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\bin\Debug\net7.0\SquareLib.dll
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\bin\Debug\net7.0\SquareLib.pdb
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\SquareLib.csproj.AssemblyReference.cache
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\SquareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\SquareLib.AssemblyInfoInputs.cache
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\SquareLib.AssemblyInfo.cs
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\SquareLib.csproj.CoreCompileInputs.cache
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\SquareLib.dll
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\refint\SquareLib.dll
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\SquareLib.pdb
+C:\Users\Danon\RiderProjects\SquareLib\SquareLib\obj\Debug\net7.0\ref\SquareLib.dll
